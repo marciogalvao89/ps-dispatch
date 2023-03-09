@@ -74,8 +74,6 @@ sound2 -- GTA sound to play
 
 - exports['ps-dispatch']:InjuriedPerson()
 
-- exports['ps-dispatch']:DeceasedPerson()
-
 - exports['ps-dispatch']:StoreRobbery(camId)
 
 - exports['ps-dispatch']:FleecaBankRobbery(camId)
@@ -89,6 +87,8 @@ sound2 -- GTA sound to play
 - exports['ps-dispatch']:VangelicoRobbery(camId)
 
 - exports['ps-dispatch']:HouseRobbery()
+
+- exports['ps-dispatch']:PrisonBreak()
 
 - exports['ps-dispatch']:DrugSale()
 
@@ -201,3 +201,8 @@ Rest steps will be similar as mentioned above in Steps to create alerts.
 
 * Hunting Zones
 * Locales for alerts
+
+# DMCA Protection Certificate
+![image](https://user-images.githubusercontent.com/82112471/169714852-1c4597b8-0ed3-4b56-a439-d0462681e3ff.png)
+
+https://www.dmca.com/r/d03ek52

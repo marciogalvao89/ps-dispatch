@@ -25,7 +25,7 @@ Config.Enable.Autotheft = true
 Config.Enable.Melee = true
 Config.Enable.PlayerDowned = true
 ---------------------------------------------------------------
-Config.Locale = 'en'
+Config.Locale = 'pt'
 
 -- enable alerts when cops break the law and print to console
 Config.Debug = true
@@ -35,6 +35,7 @@ Config.MinOffset = 1
 Config.MaxOffset = 120
 ---------------------------------------------------------------
 
+
 -- locations for the hunting zones ( Label: Name of Blip // Radius: Radius of the Alert and Blip)
 Config.Locations = {
     ["hunting"] = {
@@ -42,7 +43,6 @@ Config.Locations = {
     },
 }
 
----------------------------------------------------------------
 
 Citizen.CreateThread(function()
     -- if not GetPlayerPed(-1) then return end
